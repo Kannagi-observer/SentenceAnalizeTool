@@ -1,7 +1,7 @@
 # SentenceAnalizeTool
 # This program's aim is making data processing tool for Japanese LLM.
 
-# We are aware proxy problems. Therefore , distribute is stopping now.
+# We are aware license problems. Therefore , distribute is stopping now.
 
 Used Pachages
 Python : PSF-2.0
