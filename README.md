@@ -1,5 +1,5 @@
 # SentenceAnalizeTool
-This program's aim is making data processing tool for Japanese LLM.
+# This program's aim is making data processing tool for Japanese LLM.
 
 Used Pachages
 Python : PSF-2.0
@@ -12,4 +12,3 @@ pathlib : Apache license 2.0
 Regex :  Apache license 2.0
 FastAPI : MIT
 pydantic : MIT
-
