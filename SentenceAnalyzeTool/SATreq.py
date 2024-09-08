@@ -9,9 +9,8 @@ def analyze(sentence , filename = "" , ext = "csv"):
     post_data = json.dumps(data)
     
     try:
-        response = req.post("http://127.0.0.1:8000/analyze" , data = post_data , timeout = (3.0 , 7.0)).json()
-        #response = req.post("http://sakanadayo.f5.si/analyze" , data = post_data , timeout = (3.0 , 7.0)).json() #jsonファイルからlistに戻す際に三次元配列になっている
-        uuid = response.pop(-1) #uuidを取得してファイル作成をサーバー側で行うのもあり
+        response = req.post("http://sakanadayo.f5.si/analyze" , data = post_data , timeout = (3.0 , 7.0)).json() #jsonファイルからlistに戻す際に三次元配列になっている
+        uuid = response.pop(-1) 
 
         result = []
         for i in range(len(response[0])):
