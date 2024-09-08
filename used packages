@@ -1,4 +1,8 @@
 ## Based on these packages <br>
+MITライセンスはCopyrightとMIT条文へのアクセスを明記する
+ApacheはLICENSEファイルを(あればNOTICEファイルも)元の頒布場所からコピーしてきて貼り付ける
+BSDは権利や利用条件、免責事項を保持すること
+
 Python : https://github.com/python/cpython/tree/3.12?tab=readme-ov-file<br>
          PSF-2.0<br>
          Copyright © 2001-2024 Python Software Foundation
