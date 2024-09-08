@@ -2,7 +2,7 @@
 # This program's aim is making data processing tool for Japanese LLM.
 
 
-##**Used Pachages**<br>
+##**Used Pachages** <br>
 Python : https://github.com/python/cpython/tree/3.12?tab=readme-ov-file<br>
          PSF-2.0<br>
          Copyright © 2001-2024 Python Software Foundation
