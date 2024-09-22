@@ -1,26 +1,48 @@
-## Based on these packages <br>
-MITライセンスはCopyrightとMIT条文へのアクセスを明記する
-ApacheはLICENSEファイルを(あればNOTICEファイルも)元の頒布場所からコピーしてきて貼り付ける
-BSDは権利や利用条件、免責事項を保持すること
+Used pachages License and Copyrights
 
-Python : https://github.com/python/cpython/tree/3.12?tab=readme-ov-file<br>
-         PSF-2.0<br>
-         Copyright © 2001-2024 Python Software Foundation
+Python : https://github.com/python/cpython/tree/3.12?tab=readme-ov-file
+         PSF-2.0
+         Copyright © 2001-2024 Python Software Foundation. All rights reserved.
 
-MeCab : https://taku910.github.io/mecab/<br>
-         Copyright (c) 2001-2008, Taku Kudo<br>
+Python3-MeCab : https://taku910.github.io/mecab/
+         https://github.com/SamuraiT/mecab-python3
+         Copyright (c) 2001-2008, Taku Kudo
          Copyright (c) 2004-2008, Nippon Telegraph and Telephone Corporation All rights reserved.
+         * Redistributions of source code must retain the above
+         copyright notice, this list of conditions and the
+         following disclaimer.
 
-Python3-MeCab : https://github.com/SamuraiT/mecab-python3
+         * Redistributions in binary form must reproduce the above
+           copyright notice, this list of conditions and the
+           following disclaimer in the documentation and/or other
+           materials provided with the distribution.
 
-Regex : https://github.com/mrabarnett/mrab-regex<br>
+         * Neither the name of the Nippon Telegraph and Telegraph Corporation
+           nor the names of its contributors may be used to endorse or
+           promote products derived from this software without specific
+           prior written permission.
+
+         THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED
+         WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+         PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
+         ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+         LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+         INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
+         TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
+         ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+Regex : https://github.com/mrabarnett/mrab-regex
+         Apache 2.0 License
          Copyright (c) 1998-2001 by Secret Labs AB.  All rights reserved.
 
-FastAPI : https://fastapi.tiangolo.com/ja/<br>
-         https://github.com/fastapi/fastapi<br>
+FastAPI : https://fastapi.tiangolo.com/ja/
+         https://github.com/fastapi/fastapi
+         MIT License
          Copyright (c) 2018 Sebastián Ramírez
 
 
-pydantic : https://docs.pydantic.dev/latest/<br>
+pydantic : https://docs.pydantic.dev/latest/
          https://github.com/pydantic/pydantic
+         MIT License
          Copyright (c) 2017 to present Pydantic Services Inc. and individual contributors.
