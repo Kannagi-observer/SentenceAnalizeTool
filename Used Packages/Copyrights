@@ -6,6 +6,7 @@ Python : https://github.com/python/cpython/tree/3.12?tab=readme-ov-file
 
 Python3-MeCab : https://taku910.github.io/mecab/
          https://github.com/SamuraiT/mecab-python3
+         BSD License
          Copyright (c) 2001-2008, Taku Kudo
          Copyright (c) 2004-2008, Nippon Telegraph and Telephone Corporation All rights reserved.
 
@@ -17,7 +18,6 @@ FastAPI : https://fastapi.tiangolo.com/ja/
          https://github.com/fastapi/fastapi
          MIT License
          Copyright (c) 2018 Sebastián Ramírez
-
 
 pydantic : https://docs.pydantic.dev/latest/
          https://github.com/pydantic/pydantic
