@@ -13,11 +13,14 @@ MeCab : https://taku910.github.io/mecab/<br>
 
 Python3-MeCab : https://github.com/SamuraiT/mecab-python3
 
-Regex : https://github.com/mrabarnett/mrab-regex
-Copyright (c) 1998-2001 by Secret Labs AB.  All rights reserved.
+Regex : https://github.com/mrabarnett/mrab-regex<br>
+         Copyright (c) 1998-2001 by Secret Labs AB.  All rights reserved.
 
 FastAPI : https://fastapi.tiangolo.com/ja/<br>
-          https://github.com/fastapi/fastapi
+         https://github.com/fastapi/fastapi<br>
+         Copyright (c) 2018 Sebastián Ramírez
+
 
 pydantic : https://docs.pydantic.dev/latest/<br>
          https://github.com/pydantic/pydantic
+         Copyright (c) 2017 to present Pydantic Services Inc. and individual contributors.
